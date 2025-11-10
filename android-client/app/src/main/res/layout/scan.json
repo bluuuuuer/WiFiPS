@@ -1,10 +1,3 @@
-{
-  "lives": [
-    {
-      "name": "v1",
-      "urls": [
-        "https://raw.githubusercontent.com/bluuuuuer/WiFiPS/refs/heads/master/android-client/app/src/main/res/layout/scan.txt"
-      ]
-    }
-  ]
-}
+[
+{"name":"Yoursmile•综合","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
+]
