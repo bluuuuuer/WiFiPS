@@ -1,3 +1,10 @@
-[
-{"name":"Yoursmile•综合","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
-]
+{
+  "lives": [
+    {
+      "name": "v1",
+      "urls": [
+        "https://ghproxy.net/https://raw.githubusercontent.com/bluuuuuer/WiFiPS/edit/master/android-client/app/src/main/res/layout/scan.txt"
+      ]
+    }
+  ]
+}
